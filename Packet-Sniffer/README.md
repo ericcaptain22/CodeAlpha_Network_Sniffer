@@ -10,7 +10,7 @@ Simply clone this repository with `git clone`, install the dependencies and exec
 ```
 user@host:~$ git clone https://github.com/ericcaptain22/CodeAlpha_Network_Sniffer.git
 user@host:~$ cd Packet-Sniffer
-user@host:~/packet-sniffer$ pip install -r requirements.txt <--or--> poetry install
+user@host:~/packet-sniffer$ pip install -r requirements.txt 
 user@host:~/packet-sniffer$ sudo python3 packet_sniffer/sniffer.py
 ```
 
